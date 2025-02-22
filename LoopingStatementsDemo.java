@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 public class LoopingStatementsDemo {
     public static void main(String[] args) {
 int counter = 1;
@@ -37,6 +37,4 @@ for (int i = 1; i <= 10; i++) {
 
     }
 }
-=======
 
->>>>>>> 3c7e5384fc260012f83913911d9a33b922dcd855
